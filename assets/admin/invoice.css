@@ -1,0 +1,145 @@
+.body-font{
+    font-family: 'Montserrat', sans-serif;
+    /* font-family: 'Roboto', sans-serif; */
+}
+.margin-sm-lr{
+    margin: 0px 5px 0px 15px;
+    font-weight: bold;
+}
+.inv-font-bold{
+    color: #787678;
+    font-weight: bold;
+    font-size: 18px;
+}
+
+.amount-green{
+    font-weight: bold;
+    font-size: 18px;
+    line-height: 21px;
+    color: #1f9739;
+}
+
+.m-lr{
+    margin: 0px 10px 20px 0px!important;
+}
+
+.bbc-none>th,
+.bbc-none>tr>td
+{
+    border-bottom-color: transparent !important;
+}
+
+.et-tab-inv{
+    font-weight: 500;
+    color: #636363 !important;
+}
+
+.table.et-tab-inv>:not(caption)>*>* {
+    padding: 5px 0px;
+    border-right-width: 0px;
+}
+
+
+.table>:not(caption)>*>* {
+    border-right-width: 2px;
+    border-right-color: seagreen;
+}
+
+.table>:not(caption)>*>*:nth-child(3) {
+    border-right-width: 0px;
+    border-right-color: seagreen;
+}
+
+.w-60{
+    width: 60%;
+}
+
+.w-10{
+    width: 10%;
+}
+
+.w-45{
+    width: 40%;
+}
+
+.w-27{
+    width: 28.5%;
+}
+
+.p-10{
+    padding-right: 10px !important;
+}
+
+.f-14{
+    font-size: 14px
+}
+.bg-ggb{
+    background-color: #edfaf0;
+    color: #1f9739;
+}
+
+.amount-green-sm{
+    font-weight: 500;
+    color: #1f9739;
+}
+
+.bb-font{
+    color: #636363 !important;
+}
+
+.min-shadow{
+    border: 1px solid rgba(0,0,0, 0.13);
+    box-shadow: 0px 0px 2px rgb(0 0 0 / 5%);
+    border-radius: 4px;
+}
+.mg-bg>tr>td{
+    background-color: rgba(99,99,99, 0.08) !important;
+    margin: 4px 0px;
+}
+.mg-bg>tr{
+    margin: 4px 0px !important;
+}
+
+.mg-bg-tr{
+    margin: 4px 0px !important;
+
+}
+table {
+    border-collapse: inherit !important;
+    text-indent: initial;
+    border-spacing: 5px !important;
+}
+.padding-lr{
+    padding: 0px 0px 0px 35px !important;
+}
+
+.cust-row .col-md-3{
+    width: 28.6%;
+}
+
+.tt-head{
+    display: none;
+}
+
+.bb-width-tb{
+
+}
+
+.table.bb-width-tb>:not(caption)>*>* {
+    /* padding: 5px 0px; */
+    border-top-width: 5px;
+    border-bottom-width: 5px;
+    border-right-width: 0px;
+    border-color: forestgreen;
+}
+
+.bg-whwite>tr>td{
+    background-color: white !important;
+}
+
+.bg-whwite>tr>td>span{
+    background-color: rgba(26,182,60, 0.26) !important;
+    color: #1f9739;
+    padding: 5px;
+    border-radius: 10px;
+}
